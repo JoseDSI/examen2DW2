@@ -1,0 +1,53 @@
+:root{
+ --f7-theme-color:#0071A2;
+ --f7-navbar-bg-color: #000; /*navbar*/
+ --f7-navbar-link-color: #fff;
+ --f7-navbar-text-color:#fff;
+ --f7-bars-bg-color:#0071A2;/*toolbar*/
+ --f7-block-margin-vertical:20px;
+ --f7-card-footer-border-color:transparent; 
+}
+
+
+
+#info-panel{
+	background-color: #000;
+	color: #fff;
+	padding: 20px 30px;
+}
+
+
+
+.panel span{
+	color: #000;
+}
+.panel .list{
+	font-size: 14px;
+}
+
+
+
+.img-fluid{
+	max-width: 100%;
+	display: block;
+}
+
+#info-panel .img-fluid{
+	border-radius: 15%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
